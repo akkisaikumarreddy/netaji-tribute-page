@@ -31,7 +31,7 @@ A clean, responsive 2-page tribute website dedicated to Netaji Subhas Chandra Bo
 
 **Clone the repository:**
 ```bash
-  git clone [https://github.com/akkisaikumarreddy/netaji-tribute-page.git](https://github.com/YOUR_GITHUB_USERNAME/netaji-tribute-page.git)
+  git clone [https://github.com/akkisaikumarreddy/netaji-tribute-page.git]
 ```
 
 ---
