@@ -1,7 +1,7 @@
 # netaji-tribute-page
 A clean, responsive 2-page tribute website dedicated to Netaji Subhas Chandra Bose, built using semantic HTML5 and custom CSS3.
 
-![Project Preview]![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Project Preview][HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
