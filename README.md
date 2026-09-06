@@ -3,6 +3,11 @@ A clean, responsive 2-page tribute website dedicated to Netaji Subhas Chandra Bo
 
 ---
 
+## 🚀 Live Demo
+View the live site here: [Netaji Tribute Page]( https://akkisaikumarreddy.github.io/netaji-tribute-page/)
+
+---
+
 ## 🌟 Features
 
 * **Two-Page Layout:** Structured like clean A4 poster sheets with built-in page indicators.
