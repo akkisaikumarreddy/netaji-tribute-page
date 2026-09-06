@@ -21,9 +21,9 @@ A clean, responsive 2-page tribute website dedicated to Netaji Subhas Chandra Bo
 ---
 
 ## 📂 Project Structure
- ─ index.html     # Main HTML document (2-page layout) <br>
- ─ styles.css     # CSS stylesheet with variables and print rules <br>
- ─ README.md      # Project documentation
+ ─ index.html  &emsp;   # Main HTML document (2-page layout) <br>
+ ─ styles.css  &emps;   # CSS stylesheet with variables and print rules <br>
+ ─ README.md   &emsp;   # Project documentation
 
 ---
 
